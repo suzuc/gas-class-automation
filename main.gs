@@ -23,7 +23,7 @@ function onOpen() {
 function createSchedule() {
 
   // 連携するアカウント
-  const gAccount = "e1jseioc9d6sda39jppn2kfbq4@group.calendar.google.com";
+  const gAccount = "";
 
   
   // 読み取り範囲（表の始まり行と終わり列）
