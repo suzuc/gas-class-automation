@@ -1,6 +1,6 @@
 function decideColor(location, jugyoukoumoku) {  
   
-  const gAccount = "sa9u64s24furp2n5ujaogs9o28@group.calendar.google.com";
+  const gAccount = "";
   var calendar = CalendarApp.getCalendarById(gAccount);
 
   if (jugyoukoumoku == "試験"){
